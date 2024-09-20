@@ -1,2 +1,2 @@
 # IndALPR
-India Automatic License Plate Recognition
+Automatic License Plate Recognition for Indian Vehicles
